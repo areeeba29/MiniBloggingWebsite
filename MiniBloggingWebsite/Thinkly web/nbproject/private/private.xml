@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/Session.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/CreatePostPage.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/UserDAO.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/LoginPage.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/ViewPostsPage.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/ThinklyFacade.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/UserFactory.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/NormalUser.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/Post.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/DatabaseOperations.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/MainLauncher.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/Theme.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/SignupPage.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/DatabaseConnection.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/ui/HomePage.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/PostDAO.java</file>
+            <file>file:/C:/xampp/htdocs/Thinkly%20web/src/backend/User.java</file>
+        </group>
+    </open-files>
+</project-private>
